@@ -1,0 +1,149 @@
+\begin{thebibliography}{29}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Brandsen et~al.(2020)Brandsen, Verberne, Wansleeben, and Lambers}]{brandsen-etal-2020-creating}
+Alex Brandsen, Suzan Verberne, Milco Wansleeben, and Karsten Lambers. 2020.
+\newblock \href {https://aclanthology.org/2020.lrec-1.562} {Creating a dataset for named entity recognition in the archaeology domain}.
+\newblock In \emph{Proceedings of the Twelfth Language Resources and Evaluation Conference}, pages 4573--4577, Marseille, France. European Language Resources Association.
+
+\bibitem[{Chinchor and Sundheim(1993)}]{chinchor-sundheim-1993-muc}
+Nancy Chinchor and Beth Sundheim. 1993.
+\newblock \href {https://aclanthology.org/M93-1007} {{MUC}-5 evaluation metrics}.
+\newblock In \emph{Fifth Message Understanding Conference ({MUC}-5): Proceedings of a Conference Held in Baltimore, {M}aryland, August 25-27, 1993}.
+
+\bibitem[{Chiu and Nichols(2016)}]{chiu-nichols-2016-named}
+Jason~P.C. Chiu and Eric Nichols. 2016.
+\newblock \href {https://doi.org/10.1162/tacl_a_00104} {Named entity recognition with bidirectional {LSTM}-{CNN}s}.
+\newblock \emph{Transactions of the Association for Computational Linguistics}, 4:357--370.
+
+\bibitem[{Devlin et~al.(2019)Devlin, Chang, Lee, and Toutanova}]{devlin-etal-2019-bert}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2019.
+\newblock \href {https://doi.org/10.18653/v1/N19-1423} {{BERT}: Pre-training of deep bidirectional transformers for language understanding}.
+\newblock In \emph{Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)}, pages 4171--4186, Minneapolis, Minnesota. Association for Computational Linguistics.
+
+\bibitem[{Epure and Hennequin(2023)}]{epure-hennequin-2023-human}
+Elena Epure and Romain Hennequin. 2023.
+\newblock \href {https://doi.org/10.18653/v1/2023.eacl-main.92} {A human subject study of named entity recognition in conversational music recommendation queries}.
+\newblock In \emph{Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics}, pages 1281--1296, Dubrovnik, Croatia. Association for Computational Linguistics.
+
+\bibitem[{et~al.(2024{\natexlab{a}})}]{geminiteam2024gemini}
+Gemini~Team et~al. 2024{\natexlab{a}}.
+\newblock \href {https://arxiv.org/abs/2312.11805} {Gemini: A family of highly capable multimodal models}.
+\newblock \emph{Preprint}, arXiv:2312.11805.
+
+\bibitem[{et~al.(2024{\natexlab{b}})}]{grattafiori2024llama3herdmodels}
+Llama~Team et~al. 2024{\natexlab{b}}.
+\newblock \href {https://arxiv.org/abs/2407.21783} {The llama 3 herd of models}.
+\newblock \emph{Preprint}, arXiv:2407.21783.
+
+\bibitem[{Fu et~al.(2023)Fu, Su, Meng, and Collier}]{fu-etal-2023-biomedical}
+Zihao Fu, Yixuan Su, Zaiqiao Meng, and Nigel Collier. 2023.
+\newblock \href {https://doi.org/10.18653/v1/2023.emnlp-main.903} {Biomedical named entity recognition via dictionary-based synonym generalization}.
+\newblock In \emph{Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing}, pages 14621--14635, Singapore. Association for Computational Linguistics.
+
+\bibitem[{G. et~al.(2023)G., Kanjirangat, and Gupta}]{G2023120440}
+Veena G., Vani Kanjirangat, and Deepa Gupta. 2023.
+\newblock \href {https://doi.org/10.1016/j.eswa.2023.120440} {Agroner: An unsupervised agriculture named entity recognition using weighted distributional semantic model}.
+\newblock \emph{Expert Systems with Applications}, 229:120440.
+
+\bibitem[{Hanh et~al.(2021)Hanh, Doucet, Sidere, Moreno, and Pollak}]{hanh-2021-named}
+Tran Thi~Hong Hanh, Antoine Doucet, Nicolas Sidere, Jose~G. Moreno, and Senja Pollak. 2021.
+\newblock Named entity recognition architecture combining contextual and global features.
+\newblock In \emph{Towards Open and Trustworthy Digital Societies}, pages 264--276, Cham. Springer International Publishing.
+
+\bibitem[{He et~al.(2021{\natexlab{a}})He, Gao, and Chen}]{he2021debertav3}
+Pengcheng He, Jianfeng Gao, and Weizhu Chen. 2021{\natexlab{a}}.
+\newblock \href {https://arxiv.org/abs/2111.09543} {Debertav3: Improving deberta using electra-style pre-training with gradient-disentangled embedding sharing}.
+\newblock \emph{Preprint}, arXiv:2111.09543.
+
+\bibitem[{He et~al.(2021{\natexlab{b}})He, Liu, Gao, and Chen}]{he2021deberta}
+Pengcheng He, Xiaodong Liu, Jianfeng Gao, and Weizhu Chen. 2021{\natexlab{b}}.
+\newblock \href {https://openreview.net/forum?id=XPZIaotutsD} {Deberta: Decoding-enhanced bert with disentangled attention}.
+\newblock In \emph{International Conference on Learning Representations}.
+
+\bibitem[{Hu and Ma(2024)}]{10499162}
+Songhua Hu and Ruhu Ma. 2024.
+\newblock \href {https://doi.org/10.1109/NNICE61279.2024.10499162} {Named entity recognition of automotive parts based on roberta-crf model}.
+\newblock In \emph{2024 4th International Conference on Neural Networks, Information and Communication Engineering (NNICE)}, pages 604--612.
+
+\bibitem[{Jabbari et~al.(2016)Jabbari, bin Ali, Petersen, and Tanveer}]{10.1145/2962695.2962707}
+Ramtin Jabbari, Nauman bin Ali, Kai Petersen, and Binish Tanveer. 2016.
+\newblock \href {https://doi.org/10.1145/2962695.2962707} {What is {D}ev{O}ps? {A} systematic mapping study on definitions and practices}.
+\newblock In \emph{Proceedings of the Scientific Workshop Proceedings of XP2016}, XP Workshops, pages 1--11, New York, NY, USA. Association for Computing Machinery.
+
+\bibitem[{Jehangir et~al.(2023)Jehangir, Radhakrishnan, and Agarwal}]{JEHANGIR2023100017}
+Basra Jehangir, Saravanan Radhakrishnan, and Rahul Agarwal. 2023.
+\newblock \href {https://doi.org/10.1016/j.nlp.2023.100017} {A survey on named entity recognition — datasets, tools, and methodologies}.
+\newblock \emph{Natural Language Processing Journal}, 3:100017.
+
+\bibitem[{Keraghel et~al.(2024)Keraghel, Morbieu, and Nadif}]{keraghel2024recentadvancesnamedentity}
+Imed Keraghel, Stanislas Morbieu, and Mohamed Nadif. 2024.
+\newblock \href {https://arxiv.org/abs/2401.10825} {Recent advances in named entity recognition: A comprehensive survey and comparative study}.
+\newblock \emph{Preprint}, arXiv:2401.10825.
+
+\bibitem[{Li et~al.(2020)Li, Sun, Han, and Li}]{li2020survey}
+Jing Li, Aixin Sun, Jianglei Han, and Chenliang Li. 2020.
+\newblock A survey on deep learning for named entity recognition.
+\newblock \emph{IEEE transactions on knowledge and data engineering}, 34(1):50--70.
+
+\bibitem[{McHugh(2012)}]{McHugh2012}
+Mary~L. McHugh. 2012.
+\newblock \href {https://doi.org/biochem_med-22-3-276-4} {Interrater reliability: {T}he kappa statistic}.
+\newblock \emph{Biochemia medica}, 22:276--282.
+
+\bibitem[{Molineux(2018)}]{Molineux2018UsingAR}
+John Molineux. 2018.
+\newblock \href {https://api.semanticscholar.org/CorpusID:158416550} {Using action research for change in organizations: processes, reflections and outcomes}.
+\newblock \emph{Journal of Work-Applied Management}.
+
+\bibitem[{Montani and Honnibal(2017)}]{prodigy}
+Ines Montani and Matthew Honnibal. 2017.
+\newblock \href {https://prodi.gy/} {\emph{Prodigy: A modern and scriptable annotation tool for creating training data for machine learning models}}.
+\newblock Explosion.
+
+\bibitem[{OpenAI(2024)}]{openai2024gpt4}
+OpenAI. 2024.
+\newblock \href {https://arxiv.org/abs/2303.08774} {{GPT}-4 technical report}.
+\newblock \emph{Preprint}, arXiv:2303.08774.
+
+\bibitem[{Richie et~al.(2022)Richie, Grover, and Tsui}]{richie-etal-2022-inter}
+Russell Richie, Sachin Grover, and Fuchiang~(Rich) Tsui. 2022.
+\newblock \href {https://doi.org/10.18653/v1/2022.bionlp-1.26} {Inter-annotator agreement is not the ceiling of machine learning performance: Evidence from a comprehensive set of simulations}.
+\newblock In \emph{Proceedings of the 21st Workshop on Biomedical Language Processing}, pages 275--284, Dublin, Ireland. Association for Computational Linguistics.
+
+\bibitem[{Ritter et~al.(2011)Ritter, Clark, {Mausam}, and Etzioni}]{ritter-etal-2011-named}
+Alan Ritter, Sam Clark, {Mausam}, and Oren Etzioni. 2011.
+\newblock \href {https://aclanthology.org/D11-1141} {Named entity recognition in tweets: An experimental study}.
+\newblock In \emph{Proceedings of the 2011 Conference on Empirical Methods in Natural Language Processing}, pages 1524--1534, Edinburgh, Scotland, UK. Association for Computational Linguistics.
+
+\bibitem[{Segura-Bedmar et~al.(2013)Segura-Bedmar, Mart{\'\i}nez, and Herrero-Zazo}]{segura-bedmar-etal-2013-semeval}
+Isabel Segura-Bedmar, Paloma Mart{\'\i}nez, and Mar{\'\i}a Herrero-Zazo. 2013.
+\newblock \href {https://aclanthology.org/S13-2056} {{S}em{E}val-2013 task 9 : Extraction of drug-drug interactions from biomedical texts ({DDIE}xtraction 2013)}.
+\newblock In \emph{Second Joint Conference on Lexical and Computational Semantics (*{SEM}), Volume 2: Proceedings of the Seventh International Workshop on Semantic Evaluation ({S}em{E}val 2013)}, pages 341--350, Atlanta, Georgia, USA. Association for Computational Linguistics.
+
+\bibitem[{Strauss et~al.(2016)Strauss, Toma, Ritter, de~Marneffe, and Xu}]{strauss-etal-2016-results}
+Benjamin Strauss, Bethany Toma, Alan Ritter, Marie-Catherine de~Marneffe, and Wei Xu. 2016.
+\newblock \href {https://aclanthology.org/W16-3919} {Results of the {WNUT}16 named entity recognition shared task}.
+\newblock In \emph{Proceedings of the 2nd Workshop on Noisy User-generated Text ({WNUT})}, pages 138--144, Osaka, Japan. The COLING 2016 Organizing Committee.
+
+\bibitem[{Tjong Kim~Sang and De~Meulder(2003)}]{tjong-kim-sang-de-meulder-2003-introduction}
+Erik~F. Tjong Kim~Sang and Fien De~Meulder. 2003.
+\newblock \href {https://aclanthology.org/W03-0419} {Introduction to the {C}o{NLL}-2003 shared task: Language-independent named entity recognition}.
+\newblock In \emph{Proceedings of the Seventh Conference on Natural Language Learning at {HLT}-{NAACL} 2003}, pages 142--147.
+
+\bibitem[{Wang et~al.(2023)Wang, Sun, Li, Ouyang, Wu, Zhang, Li, and Wang}]{wang2023gptnernamedentityrecognition}
+Shuhe Wang, Xiaofei Sun, Xiaoya Li, Rongbin Ouyang, Fei Wu, Tianwei Zhang, Jiwei Li, and Guoyin Wang. 2023.
+\newblock \href {https://arxiv.org/abs/2304.10428} {Gpt-ner: Named entity recognition via large language models}.
+\newblock \emph{Preprint}, arXiv:2304.10428.
+
+\bibitem[{Wolf et~al.(2020)Wolf, Debut, Sanh, Chaumond, Delangue, Moi, Cistac, Rault, Louf, Funtowicz, Davison, Shleifer, von Platen, Ma, Jernite, Plu, Xu, Scao, Gugger, Drame, Lhoest, and Rush}]{wolf2020huggingfacestransformersstateoftheartnatural}
+Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Rémi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven~Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, and Alexander~M. Rush. 2020.
+\newblock \href {https://arxiv.org/abs/1910.03771} {Huggingface's transformers: State-of-the-art natural language processing}.
+\newblock \emph{Preprint}, arXiv:1910.03771.
+
+\bibitem[{Yang et~al.(2024)Yang, Yang, Hui, Zheng, Yu, Zhou, Li, Li, Liu, Huang, Dong, Wei, Lin, Tang, Wang, Yang, Tu, Zhang, Ma, Yang, Xu, Zhou, Bai, He, Lin, Dang, Lu, Chen, Yang, Li, Xue, Ni, Zhang, Wang, Peng, Men, Gao, Lin, Wang, Bai, Tan, Zhu, Li, Liu, Ge, Deng, Zhou, Ren, Zhang, Wei, Ren, Liu, Fan, Yao, Zhang, Wan, Chu, Liu, Cui, Zhang, Guo, and Fan}]{yang2024qwen2technicalreport}
+An~Yang, Baosong Yang, Binyuan Hui, Bo~Zheng, Bowen Yu, Chang Zhou, Chengpeng Li, Chengyuan Li, Dayiheng Liu, Fei Huang, Guanting Dong, Haoran Wei, Huan Lin, Jialong Tang, Jialin Wang, Jian Yang, Jianhong Tu, Jianwei Zhang, Jianxin Ma, Jianxin Yang, Jin Xu, Jingren Zhou, Jinze Bai, Jinzheng He, Junyang Lin, Kai Dang, Keming Lu, Keqin Chen, Kexin Yang, Mei Li, Mingfeng Xue, Na~Ni, Pei Zhang, Peng Wang, Ru~Peng, Rui Men, Ruize Gao, Runji Lin, Shijie Wang, Shuai Bai, Sinan Tan, Tianhang Zhu, Tianhao Li, Tianyu Liu, Wenbin Ge, Xiaodong Deng, Xiaohuan Zhou, Xingzhang Ren, Xinyu Zhang, Xipin Wei, Xuancheng Ren, Xuejing Liu, Yang Fan, Yang Yao, Yichang Zhang, Yu~Wan, Yunfei Chu, Yuqiong Liu, Zeyu Cui, Zhenru Zhang, Zhifang Guo, and Zhihao Fan. 2024.
+\newblock \href {https://arxiv.org/abs/2407.10671} {Qwen2 technical report}.
+\newblock \emph{Preprint}, arXiv:2407.10671.
+
+\end{thebibliography}

@@ -13,20 +13,12 @@ def parse_bib_file(directory):
     for root, dirs, files in os.walk(directory):
         for file in files:
             if file.endswith(".bib"):
-                # bib_entries = {}
-                # entry_pattern = re.compile(r'@\w+\{([^,]+),')
                 file_path = os.path.join(root, file)
                 print(f"Reading {file_path}...")
                 with open(file_path, 'r') as bib_file:
                     bib_database = bibtexparser.load(bib_file)
                     all_bib_entries = all_bib_entries | bib_database.entries_dict
-                    # content = bib_file.read()
-                    # matches = entry_pattern.findall(content)
-                    # for match in matches:
-                    #     # Extract the entire bib entry for each match
-                    #     start = content.find(match) - 1  # Include the @ and type
-                    #     end = content.find('}', start) + 1
-                    #     bib_entries[match] = content[start:end]
+
     return all_bib_entries
 
 def find_used_references(directory):

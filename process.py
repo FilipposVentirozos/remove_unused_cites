@@ -24,7 +24,7 @@ def read_bib_files(directory):
                 print("-" * 40)  # Just a separator for readability
 
 if __name__ == "__main__":
-    zip_path = '/Users/filippos.ventirozos/Library/CloudStorage/OneDrive-AutoTraderGroupPlc/Projects/remove_unused_cites/data/xgdpdfjcrsjznvndrxgqpwthzjqdnygf.zip'  # Specify your zip file path
+    zip_path = '/Users/filippos.ventirozos/Library/CloudStorage/OneDrive-AutoTraderGroupPlc/Projects/remove_unused_cites/data/RR.zip'  # Specify your zip file path
     extract_to = '/Users/filippos.ventirozos/Library/CloudStorage/OneDrive-AutoTraderGroupPlc/Projects/remove_unused_cites/data'  # Specify your extraction directory
 
     extract_zip(zip_path, extract_to)

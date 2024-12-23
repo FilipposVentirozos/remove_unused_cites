@@ -5,6 +5,7 @@ import bibtexparser
 from bibtexparser.bwriter import BibTexWriter
 from bibtexparser.bibdatabase import BibDatabase
 
+
 def parse_bib_file(directory):
     """
     Parses a .bib file and returns a dictionary of bib entries.
@@ -21,6 +22,7 @@ def parse_bib_file(directory):
 
     return all_bib_entries
 
+
 def find_used_references(directory):
     """
     Finds and returns a set of all citation keys used in a .tex file.
@@ -31,7 +33,6 @@ def find_used_references(directory):
             if file.endswith(".tex"):
                 # Pattern to match \cite, \citep, \citet, and similar commands
                 citation_pattern = re.compile(r'\\cite[t|p|author|year|yearpar]*\{([^}]+)\}')
-                used_references = set()
                 file_path = os.path.join(root, file)
                 with open(file_path, 'r') as tex_file:
                     content = tex_file.read()
@@ -41,11 +42,13 @@ def find_used_references(directory):
                         used_references.update([ref.strip() for ref in match.split(',')])
     return used_references
 
+
 def filter_bib_entries(bib_entries, used_references):
     """
     Filters the bib_entries to only include those that are used.
     """
     return {key: value for key, value in bib_entries.items() if key in used_references}
+
 
 def write_dict_to_bib_file(entries_dict, output_file_path):
     """
@@ -64,6 +67,7 @@ def write_dict_to_bib_file(entries_dict, output_file_path):
     writer = BibTexWriter()
     with open(output_file_path, 'w') as bibfile:
         bibfile.write(writer.write(db))
+
 
 if __name__ == "__main__":
     directory = "/Users/filippos.ventirozos/Library/CloudStorage/OneDrive-AutoTraderGroupPlc/Projects/remove_unused_cites/data/"  # Path to your .bib file

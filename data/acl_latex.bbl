@@ -1,0 +1,169 @@
+\begin{thebibliography}{33}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Arianto and Budi(2020)}]{arianto-budi-2020-aspect}
+Dian Arianto and Indra Budi. 2020.
+\newblock \href {https://aclanthology.org/2020.paclic-1.41} {Aspect-based sentiment analysis on {I}ndonesia{'}s tourism destinations based on {G}oogle maps user code-mixed reviews (study case: Borobudur and prambanan temples)}.
+\newblock In \emph{Proceedings of the 34th Pacific Asia Conference on Language, Information and Computation}, pages 359--367, Hanoi, Vietnam. Association for Computational Linguistics.
+
+\bibitem[{Bai et~al.(2024)Bai, Han, Zhao, Gao, Zhang, Wang, and Hu}]{bai-etal-2024-compound}
+Yinhao Bai, Zhixin Han, Yuhua Zhao, Hang Gao, Zhuowei Zhang, Xunzhi Wang, and Mengting Hu. 2024.
+\newblock \href {https://doi.org/10.18653/v1/2024.findings-emnlp.460} {Is compound aspect-based sentiment analysis addressed by {LLM}s?}
+\newblock In \emph{Findings of the Association for Computational Linguistics: EMNLP 2024}, pages 7836--7861, Miami, Florida, USA. Association for Computational Linguistics.
+
+\bibitem[{Barrie et~al.(2025)Barrie, Palaiologou, and Törnberg}]{promptstability}
+Christopher Barrie, Elli Palaiologou, and Petter Törnberg. 2025.
+\newblock \href {https://arxiv.org/abs/2407.02039} {Prompt stability scoring for text annotation with large language models}.
+\newblock \emph{Preprint}, arXiv:2407.02039.
+
+\bibitem[{Cai et~al.(2020)Cai, Tu, Zhou, Yu, and Xia}]{cai-etal-2020-aspect}
+Hongjie Cai, Yaofeng Tu, Xiangsheng Zhou, Jianfei Yu, and Rui Xia. 2020.
+\newblock \href {https://doi.org/10.18653/v1/2020.coling-main.72} {Aspect-category based sentiment analysis with hierarchical graph convolutional network}.
+\newblock In \emph{Proceedings of the 28th International Conference on Computational Linguistics}, pages 833--843, Barcelona, Spain (Online). International Committee on Computational Linguistics.
+
+\bibitem[{Chu et~al.(2022)Chu, Chen, Yang, and Wang}]{Chu2022}
+M.~Chu, Y.~Chen, L.~Yang, and J.~Wang. 2022.
+\newblock \href {https://doi.org/10.3389/fpsyg.2022.1029945} {Language interpretation in travel guidance platform: Text mining and sentiment analysis of tripadvisor reviews}.
+\newblock \emph{Frontiers in Psychology}, 13.
+
+\bibitem[{Fei et~al.(2023)Fei, Li, Liu, Bing, Li, and Chua}]{fei-etal-2023-reasoning}
+Hao Fei, Bobo Li, Qian Liu, Lidong Bing, Fei Li, and Tat-Seng Chua. 2023.
+\newblock \href {https://doi.org/10.18653/v1/2023.acl-short.101} {Reasoning implicit sentiment with chain-of-thought prompting}.
+\newblock In \emph{Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)}, pages 1171--1182, Toronto, Canada. Association for Computational Linguistics.
+
+\bibitem[{Geva et~al.(2019)Geva, Goldberg, and Berant}]{geva-etal-2019-modeling}
+Mor Geva, Yoav Goldberg, and Jonathan Berant. 2019.
+\newblock \href {https://doi.org/10.18653/v1/D19-1107} {Are we modeling the task or the annotator? an investigation of annotator bias in natural language understanding datasets}.
+\newblock In \emph{Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)}, pages 1161--1166, Hong Kong, China. Association for Computational Linguistics.
+
+\bibitem[{Gururangan et~al.(2018)Gururangan, Swayamdipta, Levy, Schwartz, Bowman, and Smith}]{gururangan-etal-2018-annotation}
+Suchin Gururangan, Swabha Swayamdipta, Omer Levy, Roy Schwartz, Samuel Bowman, and Noah~A. Smith. 2018.
+\newblock \href {https://doi.org/10.18653/v1/N18-2017} {Annotation artifacts in natural language inference data}.
+\newblock In \emph{Proceedings of the 2018 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers)}, pages 107--112, New Orleans, Louisiana. Association for Computational Linguistics.
+
+\bibitem[{Hellwig et~al.(2025)Hellwig, Fehle, Kruschwitz, and Wolff}]{Hellwig2025DoWS}
+Nils~Constantin Hellwig, Jakob Fehle, Udo Kruschwitz, and Christian Wolff. 2025.
+\newblock \href {https://api.semanticscholar.org/CorpusID:276421825} {Do we still need human annotators? prompting large language models for aspect sentiment quad prediction}.
+\newblock \emph{ArXiv}, abs/2502.13044.
+
+\bibitem[{Jiang et~al.(2019)Jiang, Chen, Xu, Ao, and Yang}]{jiang-etal-2019-challenge}
+Qingnan Jiang, Lei Chen, Ruifeng Xu, Xiang Ao, and Min Yang. 2019.
+\newblock \href {https://doi.org/10.18653/v1/D19-1654} {A challenge dataset and effective models for aspect-based sentiment analysis}.
+\newblock In \emph{Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)}, pages 6280--6285, Hong Kong, China. Association for Computational Linguistics.
+
+\bibitem[{Kit and Joseph(2023)}]{10099815}
+Brentton Wong~Swee Kit and Minnu~Helen Joseph. 2023.
+\newblock \href {https://doi.org/10.1109/DeSE58274.2023.10099815} {Aspect-based sentiment analysis on movie reviews}.
+\newblock In \emph{2023 15th International Conference on Developments in eSystems Engineering (DeSE)}, pages 237--243.
+
+\bibitem[{Li et~al.(2024)Li, Zhang, Yu, Fu, and Ye}]{li2024agentsneed}
+Junyou Li, Qin Zhang, Yangbin Yu, Qiang Fu, and Deheng Ye. 2024.
+\newblock \href {https://arxiv.org/abs/2402.05120} {More agents is all you need}.
+\newblock \emph{Preprint}, arXiv:2402.05120.
+
+\bibitem[{Liu et~al.(2019)Liu, Ott, Goyal, Du, Joshi, Chen, Levy, Lewis, Zettlemoyer, and Stoyanov}]{roberta}
+Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, and Veselin Stoyanov. 2019.
+\newblock \href {https://arxiv.org/abs/1907.11692} {Roberta: A robustly optimized bert pretraining approach}.
+\newblock \emph{Preprint}, arXiv:1907.11692.
+
+\bibitem[{Llama et~al.(2024)Llama, :, Grattafiori, Dubey, Jauhri, Pandey, Kadian, Al-Dahle, Letman, Mathur, Schelten, Vaughan, Yang, Fan, Goyal, Hartshorn, Yang, Mitra, Sravankumar, Korenev, Hinsvark, Rao, Zhang, Rodriguez, Gregerson, Spataru, Roziere, Biron, Tang, Chern, Caucheteux, Nayak, Bi, Marra, McConnell, Keller, Touret, Wu, Wong, Ferrer, Nikolaidis, Allonsius, Song, Pintz, Livshits, Wyatt, Esiobu, Choudhary, Mahajan, Garcia-Olano, Perino, Hupkes, Lakomkin, AlBadawy, Lobanova, Dinan, Smith, Radenovic, Guzmán, Zhang, Synnaeve, Lee, Anderson, Thattai, Nail, Mialon, Pang, Cucurell, Nguyen, Korevaar, Xu, Touvron, Zarov, Ibarra, Kloumann, Misra, Evtimov, Zhang, Copet, Lee, Geffert, Vranes, Park, Mahadeokar, Shah, van~der Linde, Billock, Hong, Lee, Fu, Chi, Huang, Liu, Wang, Yu, and et~al.}]{grattafiori2024llama3herdmodels}
+Llama, :, Aaron Grattafiori, Abhimanyu Dubey, Abhinav Jauhri, Abhinav Pandey, Abhishek Kadian, Ahmad Al-Dahle, Aiesha Letman, Akhil Mathur, Alan Schelten, Alex Vaughan, Amy Yang, Angela Fan, Anirudh Goyal, Anthony Hartshorn, Aobo Yang, Archi Mitra, Archie Sravankumar, and 77 others. 2024.
+\newblock \href {https://arxiv.org/abs/2407.21783} {The llama 3 herd of models}.
+\newblock \emph{Preprint}, arXiv:2407.21783.
+
+\bibitem[{Namee et~al.(2023)Namee, Polpinij, and Luaphol}]{Namee2022}
+Khanista Namee, Jantima Polpinij, and Bancha Luaphol. 2023.
+\newblock \href {https://doi.org/10.55003/cast.2022.02.23.008} {A hybrid approach for aspect-based sentiment analysis: A case study of hotel reviews}.
+\newblock \emph{Current Applied Science and Technology}, 23(2):Published: Aug 15, 2022.
+
+\bibitem[{Paullada et~al.(2021)Paullada, Raji, Bender, Denton, and Hanna}]{PAULLADA2021100336}
+Amandalynne Paullada, Inioluwa~Deborah Raji, Emily~M. Bender, Emily Denton, and Alex Hanna. 2021.
+\newblock \href {https://doi.org/10.1016/j.patter.2021.100336} {Data and its (dis)contents: A survey of dataset development and use in machine learning research}.
+\newblock \emph{Patterns}, 2(11):100336.
+
+\bibitem[{Pedregosa et~al.(2011)Pedregosa, Varoquaux, Gramfort, Michel, Thirion, Grisel, Blondel, Prettenhofer, Weiss, Dubourg, Vanderplas, Passos, Cournapeau, Brucher, Perrot, and Duchesnay}]{scikit-learn}
+Fabian Pedregosa, Ga\"{e}l Varoquaux, Alexandre Gramfort, Vincent Michel, Bertrand Thirion, Olivier Grisel, Mathieu Blondel, Peter Prettenhofer, Ron Weiss, Vincent Dubourg, Jake Vanderplas, Alexandre Passos, David Cournapeau, Matthieu Brucher, Matthieu Perrot, and \'{E}douard Duchesnay. 2011.
+\newblock Scikit-learn: Machine learning in python.
+\newblock \emph{J. Mach. Learn. Res.}, 12:2825–2830.
+
+\bibitem[{Peper et~al.(2024)Peper, Qiu, Bruggeman, Han, Chehade, and Wang}]{peper-etal-2024-shoes}
+Joseph~J Peper, Wenzhao Qiu, Ryan Bruggeman, Yi~Han, Estefania~Ciliotta Chehade, and Lu~Wang. 2024.
+\newblock \href {https://doi.org/10.18653/v1/2024.findings-emnlp.907} {Shoes-{ACOSI}: A dataset for aspect-based sentiment analysis with implicit opinion extraction}.
+\newblock In \emph{Findings of the Association for Computational Linguistics: EMNLP 2024}, pages 15477--15490, Miami, Florida, USA. Association for Computational Linguistics.
+
+\bibitem[{Ping et~al.(2024)Ping, Sang, Liu, and Zhang}]{PING2024126994}
+Zhichao Ping, Guoming Sang, Zhi Liu, and Yijia Zhang. 2024.
+\newblock \href {https://doi.org/10.1016/j.neucom.2023.126994} {Aspect category sentiment analysis based on prompt-based learning with attention mechanism}.
+\newblock \emph{Neurocomputing}, 565.
+
+\bibitem[{Pontiki et~al.(2016)Pontiki, Galanis, Papageorgiou, Androutsopoulos, Manandhar, AL-Smadi, Al-Ayyoub, Zhao, Qin, De~Clercq, Hoste, Apidianaki, Tannier, Loukachevitch, Kotelnikov, Bel, Jim{\'e}nez-Zafra, and Eryi{\u{g}}it}]{pontiki-etal-2016-semeval}
+Maria Pontiki, Dimitris Galanis, Haris Papageorgiou, Ion Androutsopoulos, Suresh Manandhar, Mohammad AL-Smadi, Mahmoud Al-Ayyoub, Yanyan Zhao, Bing Qin, Orph{\'e}e De~Clercq, V{\'e}ronique Hoste, Marianna Apidianaki, Xavier Tannier, Natalia Loukachevitch, Evgeniy Kotelnikov, Nuria Bel, Salud~Mar{\'\i}a Jim{\'e}nez-Zafra, and G{\"u}l{\c{s}}en Eryi{\u{g}}it. 2016.
+\newblock \href {https://doi.org/10.18653/v1/S16-1002} {{S}em{E}val-2016 task 5: Aspect based sentiment analysis}.
+\newblock In \emph{Proceedings of the 10th International Workshop on Semantic Evaluation ({S}em{E}val-2016)}, pages 19--30, San Diego, California. Association for Computational Linguistics.
+
+\bibitem[{Pustejovsky and Stubbs(2013)}]{Pustejovsky_Stubbs_2013}
+J.~Pustejovsky and Amber Stubbs. 2013.
+\newblock \emph{Natural language annotation for machine learning}.
+\newblock O’Reilly Media, Inc.
+
+\bibitem[{Qwen et~al.(2025)Qwen, :, Yang, Yang, Zhang, Hui, Zheng, Yu, Li, Liu, Huang, Wei, Lin, Yang, Tu, Zhang, Yang, Yang, Zhou, Lin, Dang, Lu, Bao, Yang, Yu, Li, Xue, Zhang, Zhu, Men, Lin, Li, Tang, Xia, Ren, Ren, Fan, Su, Zhang, Wan, Liu, Cui, Zhang, and Qiu}]{qwen2025qwen25technicalreport}
+Qwen, :, An~Yang, Baosong Yang, Beichen Zhang, Binyuan Hui, Bo~Zheng, Bowen Yu, Chengyuan Li, Dayiheng Liu, Fei Huang, Haoran Wei, Huan Lin, Jian Yang, Jianhong Tu, Jianwei Zhang, Jianxin Yang, Jiaxi Yang, Jingren Zhou, and 25 others. 2025.
+\newblock \href {https://arxiv.org/abs/2412.15115} {Qwen2.5 technical report}.
+\newblock \emph{Preprint}, arXiv:2412.15115.
+
+\bibitem[{Reimers and Gurevych(2019)}]{reimers-gurevych-2019-sentence}
+Nils Reimers and Iryna Gurevych. 2019.
+\newblock \href {https://doi.org/10.18653/v1/D19-1410} {Sentence-{BERT}: Sentence embeddings using {S}iamese {BERT}-networks}.
+\newblock In \emph{Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)}, pages 3982--3992, Hong Kong, China. Association for Computational Linguistics.
+
+\bibitem[{Rink et~al.(2024)Rink, Meijdam, and Graus}]{rink-etal-2024-aspect}
+Lois Rink, Job Meijdam, and David Graus. 2024.
+\newblock \href {https://aclanthology.org/2024.nlp4hr-1.2} {Aspect-based sentiment analysis for open-ended {HR} survey responses}.
+\newblock In \emph{Proceedings of the First Workshop on Natural Language Processing for Human Resources (NLP4HR 2024)}, pages 16--26, St. Julian{'}s, Malta. Association for Computational Linguistics.
+
+\bibitem[{Samuel et~al.(2025)Samuel, Zhou, and Zou}]{samuel-etal-2025-towards}
+Vinay Samuel, Yue Zhou, and Henry~Peng Zou. 2025.
+\newblock \href {https://aclanthology.org/2025.coling-main.338/} {Towards data contamination detection for modern large language models: Limitations, inconsistencies, and oracle challenges}.
+\newblock In \emph{Proceedings of the 31st International Conference on Computational Linguistics}, pages 5058--5070, Abu Dhabi, UAE. Association for Computational Linguistics.
+
+\bibitem[{Shorinwa et~al.(2024)Shorinwa, Mei, Lidard, Ren, and Majumdar}]{shorinwa2024surveyuncertaintyquantificationlarge}
+Ola Shorinwa, Zhiting Mei, Justin Lidard, Allen~Z. Ren, and Anirudha Majumdar. 2024.
+\newblock \href {https://arxiv.org/abs/2412.05563} {A survey on uncertainty quantification of large language models: Taxonomy, open research challenges, and future directions}.
+\newblock \emph{Preprint}, arXiv:2412.05563.
+
+\bibitem[{Spearman(1904)}]{spearman1904}
+Charles Spearman. 1904.
+\newblock The proof and measurement of association between two things.
+\newblock \emph{American Journal of Psychology}, 15:72--101.
+
+\bibitem[{Wang and Luo(2023)}]{10499502}
+Yajing Wang and Zongwei Luo. 2023.
+\newblock \href {https://doi.org/10.1109/HDIS60872.2023.10499502} {Enhance multi-domain sentiment analysis of review texts through prompting strategies}.
+\newblock In \emph{2023 International Conference on High Performance Big Data and Intelligent Systems (HDIS)}, pages 1--7.
+
+\bibitem[{Wang et~al.(2023)Wang, Cai, Chen, Liang, and Hooi}]{wang-etal-2023-primacy}
+Yiwei Wang, Yujun Cai, Muhao Chen, Yuxuan Liang, and Bryan Hooi. 2023.
+\newblock \href {https://doi.org/10.18653/v1/2023.emnlp-main.8} {Primacy effect of {C}hat{GPT}}.
+\newblock In \emph{Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing}, pages 108--115, Singapore. Association for Computational Linguistics.
+
+\bibitem[{Xu et~al.(2025)Xu, Chen, and Zhang}]{Xu2025}
+Guixian Xu, Zhe Chen, and Zixin Zhang. 2025.
+\newblock \href {https://doi.org/10.1038/s41598-025-86009-8} {Aspect category sentiment analysis based on pre-trained bilstm and syntax-aware graph attention network}.
+\newblock \emph{Scientific Reports}, 15.
+
+\bibitem[{Yu et~al.(2023)Yu, Dinh, Nguyen, Yu, and Huynh}]{10151883}
+Yang Yu, Duy-Tai Dinh, Ba-Hung Nguyen, Fangyu Yu, and Van-Nam Huynh. 2023.
+\newblock \href {https://doi.org/10.1109/ACCESS.2023.3285864} {Mining insights from esports game reviews with an aspect-based sentiment analysis framework}.
+\newblock \emph{IEEE Access}, 11:61161--61172.
+
+\bibitem[{Zhang et~al.(2020)Zhang, Zhao, Saleh, and Liu}]{pegasus}
+Jingqing Zhang, Yao Zhao, Mohammad Saleh, and Peter~J. Liu. 2020.
+\newblock Pegasus: pre-training with extracted gap-sentences for abstractive summarization.
+\newblock In \emph{Proceedings of the 37th International Conference on Machine Learning}, ICML 2020. JMLR.org.
+
+\bibitem[{Zhang et~al.(2023)Zhang, Li, Deng, Bing, and Lam}]{9996141}
+Wenxuan Zhang, Xin Li, Yang Deng, Lidong Bing, and Wai Lam. 2023.
+\newblock \href {https://doi.org/10.1109/TKDE.2022.3230975} {A survey on aspect-based sentiment analysis: Tasks, methods, and challenges}.
+\newblock \emph{IEEE Transactions on Knowledge and Data Engineering}, 35.
+
+\end{thebibliography}

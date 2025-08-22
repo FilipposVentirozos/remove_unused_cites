@@ -24,10 +24,26 @@ def read_bib_files(directory):
                 print("-" * 40)  # Just a separator for readability
 
 if __name__ == "__main__":
-    zip_path = '/Users/filippos.ventirozos/Library/CloudStorage/OneDrive-AutoTraderGroupPlc/Projects/remove_unused_cites/data/RR.zip'  # Specify your zip file path
-    extract_to = '/Users/filippos.ventirozos/Library/CloudStorage/OneDrive-AutoTraderGroupPlc/Projects/remove_unused_cites/data'  # Specify your extraction directory
-
+    import argparse
+    
+    parser = argparse.ArgumentParser(description='Extract zip files and read BibTeX files')
+    parser.add_argument('--zip-path', '-z', required=True,
+                        help='Path to the zip file to extract')
+    parser.add_argument('--extract-to', '-e', default='./data/',
+                        help='Directory to extract files to (default: ./data/)')
+    
+    args = parser.parse_args()
+    
+    zip_path = os.path.abspath(args.zip_path)
+    extract_to = os.path.abspath(args.extract_to)
+    
+    if not os.path.exists(zip_path):
+        print(f"Error: Zip file {zip_path} does not exist")
+        exit(1)
+    
+    os.makedirs(extract_to, exist_ok=True)
+    
     extract_zip(zip_path, extract_to)
     read_bib_files(extract_to)
 
-
+    

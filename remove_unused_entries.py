@@ -31,8 +31,8 @@ def find_used_references(directory):
     for root, dirs, files in os.walk(directory):
         for file in files:
             if file.endswith(".tex"):
-                # Pattern to match \cite, \citep, \citet, and similar commands
-                citation_pattern = re.compile(r'\\cite[t|p|author|year|yearpar]*\{([^}]+)\}')
+                # Pattern to match \cite, \citep, \citet, \citealp, and similar commands
+                citation_pattern = re.compile(r'\\cite(?:t|p|author|year|yearpar|alp)?\{([^}]+)\}')
                 file_path = os.path.join(root, file)
                 with open(file_path, 'r') as tex_file:
                     content = tex_file.read()
@@ -70,13 +70,37 @@ def write_dict_to_bib_file(entries_dict, output_file_path):
 
 
 if __name__ == "__main__":
-    directory = "/Users/filippos.ventirozos/Library/CloudStorage/OneDrive-AutoTraderGroupPlc/Projects/remove_unused_cites/data/"  # Path to your .bib file
-    # tex_path = "/Users/filippos.ventirozos/Library/CloudStorage/OneDrive-AutoTraderGroupPlc/Projects/remove_unused_cites/data/acl_latex.tex"  # Path to your .tex file
-    output_path = "/Users/filippos.ventirozos/Library/CloudStorage/OneDrive-AutoTraderGroupPlc/Projects/remove_unused_cites/data/output.bib"  # Path for the new .bib file
+    import argparse
+    
+    parser = argparse.ArgumentParser(description='Remove unused citations from BibTeX files')
+    parser.add_argument('--input-dir', '-i', default='./data/', 
+                        help='Directory containing .bib and .tex files (default: ./data/)')
+    parser.add_argument('--output', '-o', default='./data/output.bib',
+                        help='Output path for filtered .bib file (default: ./data/output.bib)')
+    
+    args = parser.parse_args()
+    
+    directory = os.path.abspath(args.input_dir)
+    output_path = os.path.abspath(args.output)
+    
+    if not os.path.exists(directory):
+        print(f"Error: Directory {directory} does not exist")
+        exit(1)
 
+    print(f"Processing files in: {directory}")
+    print("Parsing bib files...")
     bib_entries = parse_bib_file(directory=directory)
+    print(f"Found {len(bib_entries)} bib entries")
+    
+    print("Finding used references...")
     used_references = find_used_references(directory=directory)
+    print(f"Found {len(used_references)} used references: {sorted(used_references)}")
+    
+    print("Filtering entries...")
     filtered_entries = filter_bib_entries(bib_entries, used_references)
+    print(f"Filtered to {len(filtered_entries)} entries")
+    
+    print("Writing output file...")
     write_dict_to_bib_file(filtered_entries, output_path)
 
     print(f"Filtered .bib file has been written to {output_path}")
